@@ -16,8 +16,8 @@ using namespace std;
 const int MAX_SIZE = 100;
 const int DENDA_PER_HARI = 2000;
 const int BATAS_HARI = 14;
-const string USERNAME = "amikom";
-const string PASSWORD = "amikom";
+const string USERNAME = "user";
+const string PASSWORD = "pass";
 
 struct Node {
     string judul;
